@@ -1,16 +1,12 @@
 # traframe
 
-## About Porject
-
----
+## About Project
 
 ### Concept
-
 
 ### Hope
 
 
 ## Build project
 
----
 
